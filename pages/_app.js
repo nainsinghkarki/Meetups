@@ -6,7 +6,7 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Kuldeep App</title>
+        <title>Kuldeep Singh Karki</title>
       </Head>
       <Layout>
         <Component {...pageProps} />
